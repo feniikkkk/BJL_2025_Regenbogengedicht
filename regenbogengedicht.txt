@@ -5,3 +5,4 @@ Grün
 Blau
 Indigo
 Violett
+Schwarz
